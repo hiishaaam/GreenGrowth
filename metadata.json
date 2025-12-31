@@ -1,0 +1,5 @@
+{
+  "name": "GreenGrowth Inventory",
+  "description": "A fertilizer shop inventory system featuring stock management, purchase tracking, and month-end sale calculations based on physical stock counts.",
+  "requestFramePermissions": []
+}
